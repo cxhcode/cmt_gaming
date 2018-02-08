@@ -1,2 +1,2 @@
 # cmt_gaming
-基于CyberMiles的chou'jiang
+基于CyberMiles的抽奖
